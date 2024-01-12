@@ -1,0 +1,44 @@
+05:55:49.784 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+05:55:49.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+05:55:49.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+05:55:49.896 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+05:55:49.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+05:55:49.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+05:55:49.961 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+05:55:49.993 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+05:55:50.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+05:55:50.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+05:55:50.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+05:55:50.075 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+05:55:50.193 [main] INFO  testCases.TC003_VerifyLoginDDT - Startin TC003_VerifyLoginDDT
+05:55:54.514 [main] INFO  testCases.TC003_VerifyLoginDDT - Startin TC003_VerifyLoginDDT
+05:56:06.636 [main] INFO  testCases.TC003_VerifyLoginDDT - Startin TC003_VerifyLoginDDT
+05:56:18.890 [main] INFO  testCases.TC003_VerifyLoginDDT - Startin TC003_VerifyLoginDDT
+05:56:31.341 [main] INFO  testCases.TC003_VerifyLoginDDT - Startin TC003_VerifyLoginDDT
+05:58:37.366 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+05:58:37.374 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+05:58:37.410 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+05:58:37.411 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+05:58:37.429 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+05:58:37.430 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+05:58:37.803 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+05:58:38.011 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+05:58:39.559 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+05:58:40.009 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+05:58:44.506 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
+05:58:44.586 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Test case Passed
+05:58:44.860 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
+05:58:44.954 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test case Passed
+06:00:31.393 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+06:00:31.400 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+06:00:31.449 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+06:00:31.648 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:00:32.652 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+06:00:36.669 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
+06:00:36.737 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Test case Passed
+06:03:22.496 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+06:03:22.502 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+06:03:22.542 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+06:03:22.705 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:03:23.642 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+06:03:27.778 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message

@@ -1,0 +1,38 @@
+06:03:27.824 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test case Passed
+06:03:52.005 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+06:03:52.013 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+06:03:52.062 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+06:03:52.292 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:03:53.504 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+06:03:57.574 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
+06:03:57.614 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test case Passed
+06:04:04.037 [TestNG-tests-1] INFO  testCases.TC_002_VerifyLogin - Landed on Login screen
+11:55:40.337 [TestNG-tests-1] INFO  testCases.TC_002_VerifyLogin - Landed on Login screen
+12:14:56.860 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+12:14:56.868 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+12:14:56.910 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+12:14:57.086 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+12:14:58.075 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+12:15:02.043 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
+12:15:08.287 [TestNG-tests-1] INFO  testCases.TC_002_VerifyLogin - Landed on Login screen
+11:52:31.170 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+11:52:31.177 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+11:52:31.229 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+11:52:31.563 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+11:52:33.076 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+11:52:37.608 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
+11:52:56.880 [TestNG-tests-1] INFO  testCases.TC_002_VerifyLogin - Landed on Login screen
+11:54:18.186 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+11:54:18.194 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+11:54:18.231 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+11:54:18.629 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+11:54:20.338 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+11:54:25.552 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
+11:54:34.397 [TestNG-tests-1] INFO  testCases.TC_002_VerifyLogin - Landed on Login screen
+10:12:35.345 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Test Execution started
+10:12:35.351 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test Execution Started..
+10:12:35.387 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Myaccount link
+10:12:35.579 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+10:12:36.570 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
+10:12:40.650 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
+10:12:48.236 [TestNG-tests-1] INFO  testCases.TC_002_VerifyLogin - Landed on Login screen
