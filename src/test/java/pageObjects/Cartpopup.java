@@ -41,7 +41,7 @@ public boolean CartEmptymessagestatus() {
 }
 public void getmessage() {
 	String expmessage=txtCartEmpty.getText();
-	String actmessage = "Your shopping cart is empty";
+	String actmessage = "Your shopping cart is empty!";
 	if(expmessage.equals(actmessage)) {
 		System.out.println("Message is matching");
 	}

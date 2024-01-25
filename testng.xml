@@ -5,7 +5,7 @@
 	  <parameter name="os" value="windows"></parameter>
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testCases.TC005_Verify_message_cart_Empty"/>
+      <class name="testCases.TC006_Verify_displayof_viewcartscreen"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

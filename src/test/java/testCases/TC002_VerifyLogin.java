@@ -11,7 +11,7 @@ import pageObjects.Loginpage;
 import pageObjects.Myaccountpage;
 
 
-public class TC_002_VerifyLogin extends BaseClass
+public class TC002_VerifyLogin extends BaseClass
 {
 	public Loggers loggers;
 	@Test(groups = {"master","Sanity"})

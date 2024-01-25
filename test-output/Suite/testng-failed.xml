@@ -5,12 +5,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC005_Verify_message_cart_Empty">
+      <class name="testCases.TC006_Verify_displayof_viewcartscreen">
         <methods>
-          <include name="Verify_message_when_cart_empty"/>
+          <include name="Verifythecheckoutscreen"/>
+          <include name="Closebrw"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC005_Verify_message_cart_Empty -->
+      </class> <!-- testCases.TC006_Verify_displayof_viewcartscreen -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
