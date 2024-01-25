@@ -18,6 +18,10 @@ public class Myaccountpage extends Basepage
 	WebElement heading;
 	@FindBy(xpath="//a[text()='Logout'][@class='list-group-item']")
 	WebElement lnk_logoff;
+	@FindBy(xpath="//input[@name='search']")
+	WebElement txtSearchbox;
+	@FindBy(xpath="//button[@class='btn btn-default btn-lg']")
+	WebElement btnSearch;
 	
 	public void clicklogoff()
 	{
@@ -32,5 +36,11 @@ public class Myaccountpage extends Basepage
 		{
 			return (false);
 		}
+	}
+	public void SearchProduct(String productName) {
+		txtSearchbox.sendKeys(productName);
+	}
+	public void clickSearch() {
+		btnSearch.click();
 	}
 }

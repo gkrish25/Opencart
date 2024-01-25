@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-12T10:12:21 IST" name="Suite" finished-at="2024-01-12T10:12:49 IST" duration-ms="27928">
+  <suite started-at="2024-01-25T06:18:15 IST" name="Suite" finished-at="2024-01-25T06:18:28 IST" duration-ms="12523">
     <groups>
-      <group name="Sanity">
-        <method signature="TC_002_VerifyLogin.verify_login()[pri:0, instance:testCases.TC_002_VerifyLogin@8458f04]" name="verify_login" class="testCases.TC_002_VerifyLogin"/>
-      </group> <!-- Sanity -->
-      <group name="regression">
-        <method signature="TC001_AccountRegistrationTest.verify_AccountRegistration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3ba987b8]" name="verify_AccountRegistration" class="testCases.TC001_AccountRegistrationTest"/>
-      </group> <!-- regression -->
       <group name="master">
-        <method signature="TC001_AccountRegistrationTest.verify_AccountRegistration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3ba987b8]" name="verify_AccountRegistration" class="testCases.TC001_AccountRegistrationTest"/>
-        <method signature="TC_002_VerifyLogin.verify_login()[pri:0, instance:testCases.TC_002_VerifyLogin@8458f04]" name="verify_login" class="testCases.TC_002_VerifyLogin"/>
+        <method signature="TC005_Verify_message_cart_Empty.Verify_message_when_cart_empty()[pri:0, instance:testCases.TC005_Verify_message_cart_Empty@712625fd]" name="Verify_message_when_cart_empty" class="testCases.TC005_Verify_message_cart_Empty"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-01-12T10:12:21 IST" name="Test" finished-at="2024-01-12T10:12:49 IST" duration-ms="27928">
-      <class name="testCases.TC_002_VerifyLogin">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_VerifyLogin@8458f04]" started-at="2024-01-12T10:12:41 IST" name="setup" finished-at="2024-01-12T10:12:47 IST" duration-ms="6224" status="PASS">
+    <test started-at="2024-01-25T06:18:15 IST" name="Test" finished-at="2024-01-25T06:18:28 IST" duration-ms="12523">
+      <class name="testCases.TC005_Verify_message_cart_Empty">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_Verify_message_cart_Empty@712625fd]" started-at="2024-01-25T06:18:15 IST" name="setup" finished-at="2024-01-25T06:18:23 IST" duration-ms="7894" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,41 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_login()[pri:0, instance:testCases.TC_002_VerifyLogin@8458f04]" started-at="2024-01-12T10:12:47 IST" name="verify_login" finished-at="2024-01-12T10:12:49 IST" duration-ms="2243" status="PASS">
+        <test-method signature="Verify_message_when_cart_empty()[pri:0, instance:testCases.TC005_Verify_message_cart_Empty@712625fd]" started-at="2024-01-25T06:18:23 IST" name="Verify_message_when_cart_empty" finished-at="2024-01-25T06:18:28 IST" duration-ms="4557" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_login -->
-        <test-method is-config="true" signature="Closebrw()[pri:0, instance:testCases.TC_002_VerifyLogin@8458f04]" started-at="2024-01-12T10:12:49 IST" name="Closebrw" finished-at="2024-01-12T10:12:49 IST" duration-ms="333" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Closebrw -->
-      </class> <!-- testCases.TC_002_VerifyLogin -->
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@3ba987b8]" started-at="2024-01-12T10:12:22 IST" name="setup" finished-at="2024-01-12T10:12:35 IST" duration-ms="12669" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verify_AccountRegistration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3ba987b8]" started-at="2024-01-12T10:12:35 IST" name="verify_AccountRegistration" finished-at="2024-01-12T10:12:40 IST" duration-ms="5391" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_AccountRegistration -->
-        <test-method is-config="true" signature="Closebrw()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3ba987b8]" started-at="2024-01-12T10:12:40 IST" name="Closebrw" finished-at="2024-01-12T10:12:41 IST" duration-ms="334" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Closebrw -->
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+        </test-method> <!-- Verify_message_when_cart_empty -->
+      </class> <!-- testCases.TC005_Verify_message_cart_Empty -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

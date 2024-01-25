@@ -81,10 +81,10 @@ public class BaseClass {
 		driver.get(p.getProperty("appURL"));
 		driver.manage().window().maximize();
 	}
-	@AfterClass(groups = {"regression","Sanity","master"})
+	//@AfterClass(groups = {"regression","Sanity","master"})
 	public void Closebrw() 
 	{
-	driver.close();	
+	//driver.quit();	
 	}
 
 	public String randomString() {

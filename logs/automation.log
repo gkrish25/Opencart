@@ -36,3 +36,4 @@
 10:12:36.570 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter details on Register Screen
 10:12:40.650 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Conformation Message
 10:12:48.236 [TestNG-tests-1] INFO  testCases.TC_002_VerifyLogin - Landed on Login screen
+09:31:36.020 [main] INFO  testCases.TC_002_VerifyLogin - Landed on Login screen

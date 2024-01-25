@@ -6,8 +6,9 @@
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
      <!-- <class name="testCases.TC001_AccountRegistrationTest"/>
-      <class name="testCases.TC_002_VerifyLogin"/>-->
-	  <class name="testCases.TC003_VerifyLoginDDT"> 
+      <class name="testCases.TC_002_VerifyLogin"/>
+	  <class name="testCases.TC003_VerifyLoginDDT"/>--> 
+	  <class name ="testCases.TC004_Verify_Search_Functionality">
 	  </class>
     </classes>
   </test> <!-- Test -->
